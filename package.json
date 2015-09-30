@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-qunit-assert-html",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An Ember-cli addon which adds a QUnit plugin for assertion methods to compare two HTML strings for equality after a rigorous normalization process..",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -39,7 +39,7 @@
     "ember-try": "~0.0.8"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon", "QUnit"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.3"
